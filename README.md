@@ -1,6 +1,6 @@
-#File description
+# File description
 
-# author bo town, uploaded in 2023.4.19
+#author bo town, uploaded in 2023.4.19
 
 1.Coil profile----This example is to mark the coil outline with packaging
 2.Coin counting----The number of coins in the graph was counted by morphological method
